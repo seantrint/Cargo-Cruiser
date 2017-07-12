@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: b8fffe82cb350054eae4fab6a2aefa25
+timeCreated: 1485704496
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: group1
+    100002: group2
+    100004: pCube1
+    100006: pCylinder2
+    100008: pCylinder3
+    100010: pCylinder4
+    100012: VEHICLEMAYBE:group11
+    100014: VEHICLEMAYBE:group12
+    100016: VEHICLEMAYBE:group17
+    100018: VEHICLEMAYBE:group25
+    100020: VEHICLEMAYBE:group26
+    100022: VEHICLEMAYBE:group27
+    100024: VEHICLEMAYBE:group35
+    100026: VEHICLEMAYBE:group36
+    100028: VEHICLEMAYBE:group37
+    100030: VEHICLEMAYBE:null1
+    100032: VEHICLEMAYBE:pPlane10
+    100034: VEHICLEMAYBE:pPlane10 1
+    100036: VEHICLEMAYBE:pPlane10 2
+    100038: VEHICLEMAYBE:pPlane11
+    100040: VEHICLEMAYBE:pPlane11 1
+    100042: VEHICLEMAYBE:pPlane11 2
+    100044: VEHICLEMAYBE:pPlane12
+    100046: VEHICLEMAYBE:pPlane13
+    100048: VEHICLEMAYBE:pPlane14
+    100050: VEHICLEMAYBE:pPlane15
+    100052: VEHICLEMAYBE:pPlane18
+    100054: VEHICLEMAYBE:pPlane22
+    100056: VEHICLEMAYBE:pPlane25
+    100058: VEHICLEMAYBE:pPlane27
+    100060: VEHICLEMAYBE:pPlane28
+    100062: VEHICLEMAYBE:pPlane29
+    100064: VEHICLEMAYBE:pPlane3
+    100066: VEHICLEMAYBE:pPlane3 1
+    100068: VEHICLEMAYBE:pPlane3 2
+    100070: VEHICLEMAYBE:pPlane30
+    100072: VEHICLEMAYBE:pPlane31
+    100074: VEHICLEMAYBE:pPlane32
+    100076: VEHICLEMAYBE:pPlane4
+    100078: VEHICLEMAYBE:pPlane5
+    100080: VEHICLEMAYBE:pPlane6
+    100082: VEHICLEMAYBE:pPlane6 1
+    100084: VEHICLEMAYBE:pPlane6 2
+    100086: VEHICLEMAYBE:pPlane7
+    100088: VEHICLEMAYBE:pPlane7 1
+    100090: VEHICLEMAYBE:pPlane7 2
+    100092: VEHICLEMAYBE:pPlane8
+    100094: VEHICLEMAYBE:pPlane9
+    100096: VEHICLEMAYBE:pPlane9 1
+    100098: VEHICLEMAYBE:pPlane9 2
+    100100: //RootNode
+    400000: group1
+    400002: group2
+    400004: pCube1
+    400006: pCylinder2
+    400008: pCylinder3
+    400010: pCylinder4
+    400012: VEHICLEMAYBE:group11
+    400014: VEHICLEMAYBE:group12
+    400016: VEHICLEMAYBE:group17
+    400018: VEHICLEMAYBE:group25
+    400020: VEHICLEMAYBE:group26
+    400022: VEHICLEMAYBE:group27
+    400024: VEHICLEMAYBE:group35
+    400026: VEHICLEMAYBE:group36
+    400028: VEHICLEMAYBE:group37
+    400030: VEHICLEMAYBE:null1
+    400032: VEHICLEMAYBE:pPlane10
+    400034: VEHICLEMAYBE:pPlane10 1
+    400036: VEHICLEMAYBE:pPlane10 2
+    400038: VEHICLEMAYBE:pPlane11
+    400040: VEHICLEMAYBE:pPlane11 1
+    400042: VEHICLEMAYBE:pPlane11 2
+    400044: VEHICLEMAYBE:pPlane12
+    400046: VEHICLEMAYBE:pPlane13
+    400048: VEHICLEMAYBE:pPlane14
+    400050: VEHICLEMAYBE:pPlane15
+    400052: VEHICLEMAYBE:pPlane18
+    400054: VEHICLEMAYBE:pPlane22
+    400056: VEHICLEMAYBE:pPlane25
+    400058: VEHICLEMAYBE:pPlane27
+    400060: VEHICLEMAYBE:pPlane28
+    400062: VEHICLEMAYBE:pPlane29
+    400064: VEHICLEMAYBE:pPlane3
+    400066: VEHICLEMAYBE:pPlane3 1
+    400068: VEHICLEMAYBE:pPlane3 2
+    400070: VEHICLEMAYBE:pPlane30
+    400072: VEHICLEMAYBE:pPlane31
+    400074: VEHICLEMAYBE:pPlane32
+    400076: VEHICLEMAYBE:pPlane4
+    400078: VEHICLEMAYBE:pPlane5
+    400080: VEHICLEMAYBE:pPlane6
+    400082: VEHICLEMAYBE:pPlane6 1
+    400084: VEHICLEMAYBE:pPlane6 2
+    400086: VEHICLEMAYBE:pPlane7
+    400088: VEHICLEMAYBE:pPlane7 1
+    400090: VEHICLEMAYBE:pPlane7 2
+    400092: VEHICLEMAYBE:pPlane8
+    400094: VEHICLEMAYBE:pPlane9
+    400096: VEHICLEMAYBE:pPlane9 1
+    400098: VEHICLEMAYBE:pPlane9 2
+    400100: //RootNode
+    2300000: pCube1
+    2300002: pCylinder2
+    2300004: pCylinder3
+    2300006: pCylinder4
+    2300008: VEHICLEMAYBE:pPlane10
+    2300010: VEHICLEMAYBE:pPlane10 1
+    2300012: VEHICLEMAYBE:pPlane10 2
+    2300014: VEHICLEMAYBE:pPlane11
+    2300016: VEHICLEMAYBE:pPlane11 1
+    2300018: VEHICLEMAYBE:pPlane11 2
+    2300020: VEHICLEMAYBE:pPlane12
+    2300022: VEHICLEMAYBE:pPlane13
+    2300024: VEHICLEMAYBE:pPlane14
+    2300026: VEHICLEMAYBE:pPlane15
+    2300028: VEHICLEMAYBE:pPlane18
+    2300030: VEHICLEMAYBE:pPlane22
+    2300032: VEHICLEMAYBE:pPlane25
+    2300034: VEHICLEMAYBE:pPlane27
+    2300036: VEHICLEMAYBE:pPlane28
+    2300038: VEHICLEMAYBE:pPlane29
+    2300040: VEHICLEMAYBE:pPlane3
+    2300042: VEHICLEMAYBE:pPlane3 1
+    2300044: VEHICLEMAYBE:pPlane3 2
+    2300046: VEHICLEMAYBE:pPlane30
+    2300048: VEHICLEMAYBE:pPlane31
+    2300050: VEHICLEMAYBE:pPlane32
+    2300052: VEHICLEMAYBE:pPlane4
+    2300054: VEHICLEMAYBE:pPlane5
+    2300056: VEHICLEMAYBE:pPlane6
+    2300058: VEHICLEMAYBE:pPlane6 1
+    2300060: VEHICLEMAYBE:pPlane6 2
+    2300062: VEHICLEMAYBE:pPlane7
+    2300064: VEHICLEMAYBE:pPlane7 1
+    2300066: VEHICLEMAYBE:pPlane7 2
+    2300068: VEHICLEMAYBE:pPlane8
+    2300070: VEHICLEMAYBE:pPlane9
+    2300072: VEHICLEMAYBE:pPlane9 1
+    2300074: VEHICLEMAYBE:pPlane9 2
+    3300000: pCube1
+    3300002: pCylinder2
+    3300004: pCylinder3
+    3300006: pCylinder4
+    3300008: VEHICLEMAYBE:pPlane10
+    3300010: VEHICLEMAYBE:pPlane10 1
+    3300012: VEHICLEMAYBE:pPlane10 2
+    3300014: VEHICLEMAYBE:pPlane11
+    3300016: VEHICLEMAYBE:pPlane11 1
+    3300018: VEHICLEMAYBE:pPlane11 2
+    3300020: VEHICLEMAYBE:pPlane12
+    3300022: VEHICLEMAYBE:pPlane13
+    3300024: VEHICLEMAYBE:pPlane14
+    3300026: VEHICLEMAYBE:pPlane15
+    3300028: VEHICLEMAYBE:pPlane18
+    3300030: VEHICLEMAYBE:pPlane22
+    3300032: VEHICLEMAYBE:pPlane25
+    3300034: VEHICLEMAYBE:pPlane27
+    3300036: VEHICLEMAYBE:pPlane28
+    3300038: VEHICLEMAYBE:pPlane29
+    3300040: VEHICLEMAYBE:pPlane3
+    3300042: VEHICLEMAYBE:pPlane3 1
+    3300044: VEHICLEMAYBE:pPlane3 2
+    3300046: VEHICLEMAYBE:pPlane30
+    3300048: VEHICLEMAYBE:pPlane31
+    3300050: VEHICLEMAYBE:pPlane32
+    3300052: VEHICLEMAYBE:pPlane4
+    3300054: VEHICLEMAYBE:pPlane5
+    3300056: VEHICLEMAYBE:pPlane6
+    3300058: VEHICLEMAYBE:pPlane6 1
+    3300060: VEHICLEMAYBE:pPlane6 2
+    3300062: VEHICLEMAYBE:pPlane7
+    3300064: VEHICLEMAYBE:pPlane7 1
+    3300066: VEHICLEMAYBE:pPlane7 2
+    3300068: VEHICLEMAYBE:pPlane8
+    3300070: VEHICLEMAYBE:pPlane9
+    3300072: VEHICLEMAYBE:pPlane9 1
+    3300074: VEHICLEMAYBE:pPlane9 2
+    4300000: pCube1
+    4300002: pCylinder2
+    4300004: pCylinder3
+    4300006: pCylinder4
+    4300008: VEHICLEMAYBE:pPlane3
+    4300010: VEHICLEMAYBE:pPlane6
+    4300012: VEHICLEMAYBE:pPlane5
+    4300014: VEHICLEMAYBE:pPlane7
+    4300016: VEHICLEMAYBE:pPlane9
+    4300018: VEHICLEMAYBE:pPlane10
+    4300020: VEHICLEMAYBE:pPlane11
+    4300022: VEHICLEMAYBE:pPlane8
+    4300024: VEHICLEMAYBE:pPlane3
+    4300026: VEHICLEMAYBE:pPlane6
+    4300028: VEHICLEMAYBE:pPlane7
+    4300030: VEHICLEMAYBE:pPlane9
+    4300032: VEHICLEMAYBE:pPlane10
+    4300034: VEHICLEMAYBE:pPlane11
+    4300036: VEHICLEMAYBE:pPlane18
+    4300038: VEHICLEMAYBE:pPlane22
+    4300040: VEHICLEMAYBE:pPlane25
+    4300042: VEHICLEMAYBE:pPlane3
+    4300044: VEHICLEMAYBE:pPlane6
+    4300046: VEHICLEMAYBE:pPlane7
+    4300048: VEHICLEMAYBE:pPlane9
+    4300050: VEHICLEMAYBE:pPlane10
+    4300052: VEHICLEMAYBE:pPlane11
+    4300054: VEHICLEMAYBE:pPlane27
+    4300056: VEHICLEMAYBE:pPlane28
+    4300058: VEHICLEMAYBE:pPlane29
+    4300060: VEHICLEMAYBE:pPlane30
+    4300062: VEHICLEMAYBE:pPlane31
+    4300064: VEHICLEMAYBE:pPlane32
+    4300066: VEHICLEMAYBE:pPlane12
+    4300068: VEHICLEMAYBE:pPlane13
+    4300070: VEHICLEMAYBE:pPlane15
+    4300072: VEHICLEMAYBE:pPlane4
+    4300074: VEHICLEMAYBE:pPlane14
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

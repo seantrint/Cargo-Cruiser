@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: c42e7c1a1c652e542a3b0d0eafe1b470
+timeCreated: 1493922751
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: group2
+    100004: Lamp
+    100006: //RootNode
+    100008: pPlane1
+    100010: pPlane10
+    100012: pPlane11
+    100014: pPlane12
+    100016: pPlane13
+    100018: pPlane14
+    100020: pPlane3
+    100022: pPlane4
+    100024: pPlane5
+    100026: pPlane6
+    100028: pPlane7
+    100030: pPlane8
+    100032: pPlane9
+    100034: pSphere1
+    100036: pSphere2
+    100038: pSphere3
+    100040: pSphere4
+    100042: Suzanne
+    100044: transform1
+    100046: transform10
+    100048: transform11
+    100050: transform12
+    100052: transform2
+    100054: transform3
+    100056: transform4
+    100058: transform5
+    100060: transform6
+    100062: transform7
+    100064: transform8
+    100066: transform9
+    400000: Camera
+    400002: group2
+    400004: Lamp
+    400006: //RootNode
+    400008: pPlane1
+    400010: pPlane10
+    400012: pPlane11
+    400014: pPlane12
+    400016: pPlane13
+    400018: pPlane14
+    400020: pPlane3
+    400022: pPlane4
+    400024: pPlane5
+    400026: pPlane6
+    400028: pPlane7
+    400030: pPlane8
+    400032: pPlane9
+    400034: pSphere1
+    400036: pSphere2
+    400038: pSphere3
+    400040: pSphere4
+    400042: Suzanne
+    400044: transform1
+    400046: transform10
+    400048: transform11
+    400050: transform12
+    400052: transform2
+    400054: transform3
+    400056: transform4
+    400058: transform5
+    400060: transform6
+    400062: transform7
+    400064: transform8
+    400066: transform9
+    2300000: pPlane1
+    2300002: pPlane13
+    2300004: pPlane14
+    2300006: pSphere3
+    2300008: pSphere4
+    2300010: Suzanne
+    3300000: pPlane1
+    3300002: pPlane13
+    3300004: pPlane14
+    3300006: pSphere3
+    3300008: pSphere4
+    3300010: Suzanne
+    4300000: Suzanne
+    4300002: pPlane1
+    4300004: pPlane13
+    4300006: pPlane14
+    4300008: pSphere3
+    4300010: pSphere4
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      - path: pPlane3
+        weight: 1
+      - path: pPlane3/transform1
+        weight: 1
+      - path: pPlane4
+        weight: 1
+      - path: pPlane4/transform7
+        weight: 1
+      - path: pPlane5
+        weight: 1
+      - path: pPlane5/transform5
+        weight: 1
+      - path: pPlane6
+        weight: 1
+      - path: pPlane6/transform3
+        weight: 1
+      - path: pPlane7
+        weight: 1
+      - path: pPlane7/transform4
+        weight: 1
+      - path: pPlane8
+        weight: 1
+      - path: pPlane8/transform2
+        weight: 1
+      - path: pPlane9
+        weight: 1
+      - path: pPlane9/transform11
+        weight: 1
+      - path: pPlane10
+        weight: 1
+      - path: pPlane10/transform9
+        weight: 1
+      - path: pPlane11
+        weight: 1
+      - path: pPlane11/transform8
+        weight: 1
+      - path: pPlane12
+        weight: 1
+      - path: pPlane12/transform6
+        weight: 1
+      - path: pPlane13
+        weight: 1
+      - path: pPlane14
+        weight: 1
+      - path: pSphere1
+        weight: 1
+      - path: pSphere1/transform10
+        weight: 1
+      - path: pSphere2
+        weight: 1
+      - path: pSphere2/transform12
+        weight: 1
+      - path: pSphere3
+        weight: 1
+      - path: pSphere4
+        weight: 1
+      - path: Suzanne
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 28
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
